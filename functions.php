@@ -2,7 +2,7 @@
 
 function clu($url = null) {
     $clu = array(
-        'login' => 'custom-login',
+        'login' => null,
         'logout' => null,
         'register' => null,
         'lostpassword' => null
